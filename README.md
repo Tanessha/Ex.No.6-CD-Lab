@@ -67,7 +67,8 @@ int main() {
 
 
 ## Program Output
-![ex6](Ex6.png)
+![image](https://github.com/user-attachments/assets/aa5e2e38-a45f-4988-96ff-ab11a51ff0bf)
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
