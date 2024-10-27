@@ -60,7 +60,7 @@ int main() {
 }
 
 ```
-# OUTPUT:
+## OUTPUT:
 
 ### k.txt File
 ![image](https://github.com/user-attachments/assets/e92c5e6e-5e02-4a40-b0f2-d6714aceb2ea)
