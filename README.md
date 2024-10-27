@@ -63,7 +63,8 @@ int main() {
 # OUTPUT
 
 ## k.txt File
-![txt-file](Ex6(k.txt).png)
+![image](https://github.com/user-attachments/assets/e92c5e6e-5e02-4a40-b0f2-d6714aceb2ea)
+
 
 ## Program Output
 ![ex6](Ex6.png)
