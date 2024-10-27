@@ -3,10 +3,10 @@ IMPLEMENTATION OF THE BACK END OF THE COMPILER
 ## NAME: TANESSHA KANNAN
 ## REGISTERED NUMBER: 212223040225
 
-# Aim :
+## Aim :
 To write a program to implement the back end of the compiler.
 
-# ALGORITHM
+## ALGORITHM:
 1. Start the program.
 2. Get the three variables from statements and stored in the text file k.txt.
 3. Compile the program and give the path of the source file.
@@ -14,7 +14,7 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 
-# PROGRAM
+## PROGRAM:
 ```
 
 #include <stdio.h>
@@ -60,15 +60,15 @@ int main() {
 }
 
 ```
-# OUTPUT
+# OUTPUT:
 
-## k.txt File
+### k.txt File
 ![image](https://github.com/user-attachments/assets/e92c5e6e-5e02-4a40-b0f2-d6714aceb2ea)
 
 
-## Program Output
+### Program Output:
 ![image](https://github.com/user-attachments/assets/aa5e2e38-a45f-4988-96ff-ab11a51ff0bf)
 
 
-# Result
+## Result:
 The back end of the compiler is implemented successfully, and the output is verified.
